@@ -4,7 +4,7 @@ tagline: 'ever8greener 개발로그'
 description: '개발과 삶 모든 것'
 #baseurl: "/lanyon"
 baseurl: ""
-url: http://ever8greener.github.io
+url: https://ever8greener.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -39,8 +39,9 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
-  Blog:           
+#    - '/'
+    - '/blog/'
+  Categories:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { python: '/blog/categories/#python' }
@@ -58,9 +59,9 @@ nav:
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
-hero:
-  image: /public/img/we_will_be_giants_by_yalestewart.jpg
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+# hero:
+#   image: /public/img/we_will_be_giants_by_yalestewart.jpg
+#   caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
 # Puglins
 mathjax: true # whether support mathjax
