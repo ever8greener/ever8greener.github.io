@@ -1,7 +1,7 @@
 ---
 layout: post
 title: macOS Mojave  
-category: swift, Operation ,GCD, thread
+category: mac
 permalink: /algorithm/:year/:month/:day/:title/
 
 tags: [swift, Operation, GCD]
