@@ -1,6 +1,12 @@
 ---
+layout: post
 title: macOS Mojave  
-date: 2018-06-07 22:40:00 +0900
+category: swift, Operation ,GCD, thread
+permalink: /algorithm/:year/:month/:day/:title/
+
+tags: [swift, Operation, GCD]
+comments: true
+date: 2018-07-31 21:40:00 +0900
 ---
 
 test test

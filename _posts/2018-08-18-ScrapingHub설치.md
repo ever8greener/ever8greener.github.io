@@ -1,4 +1,5 @@
 ---
+layout: post
 title: ScrapingHub설치 in 아나콘다
 date: 2018-08-18 21:40:00 +0900
 category: swift, scrape

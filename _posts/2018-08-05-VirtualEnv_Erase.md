@@ -1,4 +1,5 @@
 ---
+layout: post
 title: VirtualEnv 삭제방법
 date: 2018-08-05 21:40:00 +0900
 category: Python, Anaconda, Venv

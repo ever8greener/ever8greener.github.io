@@ -1,7 +1,12 @@
 ---
+layout: post
 title: Operation - BlockOperation에 대하여.
-date: 2018-07-31 21:40:00 +0900
 category: swift, Operation ,GCD, thread
+permalink: /algorithm/:year/:month/:day/:title/
+
+tags: [swift, Operation, GCD]
+comments: true
+date: 2018-07-31 21:40:00 +0900
 ---
 
 예제를 위해 먼저 시간측정하는 `Util.swift` 파일을 하나 만들고 저장하자.

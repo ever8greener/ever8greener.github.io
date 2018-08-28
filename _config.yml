@@ -1,9 +1,10 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: "/lanyon"
-url: http://codinfox.github.io
+title: ever8greener 개발로그
+tagline: 'ever8greener 개발로그'
+description: '개발과 삶 모든 것'
+#baseurl: "/lanyon"
+baseurl: ""
+url: http://ever8greener.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -24,16 +25,16 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  name: ever8greener
+  description: How to <strong>Code and .....</strong>
+#  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
+    # linkedin:  https://www.linkedin.com/in/ever8greener
+    github:    https://github.com/ever8greener
     # facebook:  <hide>
-    twitter:   https://twitter.com/Li_Zhihao
-    weibo:     http://weibo.com/41173780
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    twitter:   https://twitter.com/ever8greener
+    # weibo:     
+   # email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
 
 # Navigation (2nd level links supported)
 nav:
@@ -42,11 +43,16 @@ nav:
   Blog:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
+    - { python: '/blog/categories/#python' }
+    - { Machine Learning: '/blog/categories/#ML' }
+    - { swift: '/blog/categories/#swift' }
+    - { iOS: '/blog/categories/#iOS' }
+    - { algorithm: '/blog/categories/#algorithm' }
     - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
   Github Project: 
-    - 'http://codinfox.github.io/'
+    - 'http://ever8greener.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
@@ -61,3 +67,6 @@ mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
 
+# Use the following plug-ins
+gems:
+  - jekyll-paginate
