@@ -1,8 +1,8 @@
 ---
 layout: post
 title: macOS Mojave  
-category: mac
-permalink: /algorithm/:year/:month/:day/:title/
+category: Mac
+permalink: /mac/:year/:month/:day/:title/
 
 tags: [swift, Operation, GCD]
 comments: true

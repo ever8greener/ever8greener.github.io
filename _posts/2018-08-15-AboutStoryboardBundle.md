@@ -2,7 +2,8 @@
 layout: post
 title: UIStoryboard의 번들 옵션이 nil 이라 함은?
 date: 2018-08-15 21:40:00 +0900
-category: swift
+category: Swift
+permalink: /Swift/:year/:month/:day/:title/
 ---
 
 ```swift

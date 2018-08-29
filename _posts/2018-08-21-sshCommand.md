@@ -2,7 +2,7 @@
 layout: post
 title: 현재 ssh key를 알고 싶을때.
 category: git
-permalink: /algorithm/:year/:month/:day/:title/
+permalink: /git/:year/:month/:day/:title/
 
 tags: [git, ssh]
 comments: true

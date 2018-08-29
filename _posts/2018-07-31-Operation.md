@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Operation - BlockOperation에 대하여.
-category: swift
-permalink: /algorithm/:year/:month/:day/:title/
+category: Swift
+permalink: /swift/:year/:month/:day/:title/
 
 tags: [swift, Operation, GCD]
 comments: true
