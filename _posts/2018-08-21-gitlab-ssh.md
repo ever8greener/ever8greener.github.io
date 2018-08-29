@@ -2,7 +2,7 @@
 layout: post
 title: SSH로 git push 오류
 category: git
-permalink: /algorithm/:year/:month/:day/:title/
+permalink: /git/:year/:month/:day/:title/
 
 tags: [git, ssh]
 comments: true
@@ -56,6 +56,7 @@ https://superuser.com/questions/1256286/mac-os-x-high-sierra-missing-ssh-folder
 - In the terminal, enter cd ~
 - Then mkdir .ssh; chmod 700 ~/.ssh
 ```
+
 
 In macOS, you need to generate your public and private keys from the Terminal. If you haven't yet done this, the .ssh directory will not exist. To create them:
 
