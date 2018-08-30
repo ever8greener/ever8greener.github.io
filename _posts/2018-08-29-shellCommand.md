@@ -8,8 +8,7 @@ tags: [tip,mac,shell]
 comments: true
 date: 2018-07-20 21:40:00 +0900
 ---
-
-### 삭제
+ 
 
 #### 디렉토리 삭제  : 
 
