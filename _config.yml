@@ -1,11 +1,11 @@
 # Site Info
-title: ever8greener 개발로그
-tagline: 'ever8greener 개발로그'
+title: ever8greener's development log
+tagline: ever8greener
 description: '개발과 삶 모든 것'
 #baseurl: "/lanyon"
 baseurl: ""
 url: https://ever8greener.github.io
-logo: '/public/logo.png'
+logo: '/public/cubic-min.png'
 
 # Site configurations
 gems:
@@ -44,12 +44,14 @@ nav:
   Categories:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
-    - { python: '/blog/categories/#python' }
+    - { Python: '/blog/categories/#python' }
     - { Machine Learning: '/blog/categories/#ML' }
     - { swift: '/blog/categories/#swift' }
     - { iOS: '/blog/categories/#iOS' }
     - { algorithm: '/blog/categories/#algorithm' }
-    - { Tags: '/blog/tags/' }
+    - { git: '/blog/categories/#git' }
+    - { etc: '/blog/categories/#etc' }
+    - { Tags: '/blog/tags/' }  
   About:          
     - '/about/'
   Github Project: 
@@ -65,8 +67,8 @@ category_page: '/blog/categories/'
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+#google_analytics_token: 'UA-127032747-1' # leave blank if you don't want google analytics
+#disqus_short_name: 'eddiekwons-swift-python-ml-blog' # leave blank if you don't want disqus
 
 # Use the following plug-ins
 gems:
